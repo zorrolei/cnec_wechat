@@ -1,0 +1,75 @@
+<view class='banner-index'>
+  <image src='../../img/img_banner_about.png' mode='widthFix' style='width:100%;'></image>
+</view>
+
+<view class='text-center margin-top'>
+  <image src='../../img/img_server.png' mode='widthFix' style='width:50%;'></image>
+</view>
+
+<view class='text-center margin-top'>
+  <image src='../../img/img_server_02.png' mode='widthFix' style='width:50%;'></image>
+</view>
+
+<view class='padding text-center h5'>纯软件服务，中网优能提供软硬件标准，由合作厂商完成勘察、布放、对接、整改等工作；</view>
+
+<view class='text-center margin-top'>
+  <image src='../../img/img_corporate.png' mode='widthFix' style='width:50%;'></image>
+</view>
+
+<view class='row list-corporate color-light text-center'>
+  <view class='col'>
+    <view class='col-6'>
+      <view class='item-corporate bg-corporate-01'>
+        <image src='../../img/icon_corporaet_01.png' mode='widthFix' style='width:60%;'></image>
+        <view class='h5'>公司有完全自主知识产权的软、硬件产品体系</view>
+      </view>
+    </view>
+    <view class='col-6'>
+      <view class='item-corporate bg-corporate-02'>
+        <image src='../../img/icon_corporaet_02.png' mode='widthFix' style='width:60%;'></image>
+        <view class='h5'>公司具备国内乃至全球公认的最安全的互联网安全应用技术</view>
+      </view>
+    </view>
+  </view>
+  <view class='col'>
+    <view class='col-6'>
+      <view class='item-corporate bg-corporate-03'>
+        <image src='../../img/icon_corporaet_03.png' mode='widthFix' style='width:60%;'></image>
+        <view class='h5'>公司以服务好IDC客户为我们的终极目标</view>
+      </view>
+    </view>
+    <view class='col-6'>
+      <view class='item-corporate bg-corporate-04'>
+        <image src='../../img/icon_corporaet_04.png' mode='widthFix' style='width:60%;'></image>
+        <view class='h5'>公司的产品已获得多方投资基金认可</view>
+      </view>
+    </view>
+  </view>
+</view> 
+
+<view class='text-center margin-top'>
+  <image src='../../img/img_company.png' mode='widthFix' style='width:50%;'></image>
+</view>
+
+<view style='padding:1rem;'>
+  <text class='bg-company-01 color-light'>2016年</text>
+
+  <view class='h5 margin-top'>引进美国NASA节能技术，在山西移动进行试点</view>
+  <view class='h5'>配合中国移动设计院对山西移动全省机房进行节能诊断</view>  
+  <view class='h5'>完成第一代产品研发工作</view>
+  <view class='h5'>筹备新公司组建工作</view>
+
+</view>
+
+<view style='padding:1rem;'>
+  <text class='bg-company-02 color-light'>2017年</text>
+
+  <view class='h5 margin-top'>4月，接受重庆移动、北京移动委托，针对机房高温治理启动科研项目</view>
+  <view class='h5'>5月，启动第二代产品研发</view>  
+  <view class='h5'>6月，通过重庆移动、北京移动专家技术评审，启动高温治理专项整治工作</view>
+  <view class='h5'>7月，安徽所（全国空调设备组织）合作，中科院专家加盟</view>
+  <view class='h5'>8月，重庆移动、北京移动高温治理取得显著成效</view>
+  <view class='h5'>9月，公司完成注册，公司产品获得多家资本方认可，北京移动启动招投标程序</view>
+  <view class='h5'>10月，新一轮投资到位，慧辰资讯投资加盟（清华博士带领，国内商业大数据TOP3企业）</view>
+
+</view>

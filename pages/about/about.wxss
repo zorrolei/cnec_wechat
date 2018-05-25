@@ -1,0 +1,21 @@
+.list-corporate .col-6{
+ padding:1rem;
+}
+.bg-corporate-01{
+  background: #9fc9f2;
+}
+.bg-corporate-02{
+  background: #88dfc6;
+}
+.bg-corporate-03{
+  background: #75a9fa;
+}
+.bg-corporate-04{
+  background: #7cd1eb;
+}
+.list-corporate .item-corporate{
+  padding: 1rem;
+}
+
+.bg-company-01{background: #7cd1eb; padding:.2rem .5rem;}
+.bg-company-02{background: #65e4ee; padding:.2rem .5rem;}

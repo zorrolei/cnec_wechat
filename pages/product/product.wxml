@@ -1,0 +1,63 @@
+<view class='banner-index'>
+  <image src='../../img/img_banner_product.png' mode='widthFix' style='width:100%;'></image>
+</view>
+<view class='h1 text-center color-info padding-vertical'>产品特性</view>
+<view class='row text-center'>
+  <view class='col'>
+    <view class='col-6'>
+      <image src='../../img/img_tx_01.png' mode='widthFix' style='width:60%;'></image>
+      <view class='h5'>用户行为分析管控</view>
+    </view>
+    <view class='col-6'>
+      <image src='../../img/img_tx_02.png' mode='widthFix' style='width:60%;'></image>
+      <view class='h5'>流量分析管控</view>
+    </view>
+  </view>
+
+  <view class='col' style='margin-top:1rem;'>
+    <view class='col-6'>
+      <image src='../../img/img_tx_03.png' mode='widthFix' style='width:60%;'></image>
+      <view class='h5'>应用分析管控</view>
+    </view>
+    <view class='col-6'>
+      <image src='../../img/img_tx_04.png' mode='widthFix' style='width:60%;'></image>
+      <view class='h5'>网络质量分析管控</view>
+    </view>
+  </view>
+
+</view>
+
+<view class='product-section text-center bg-blue' style='margin-top:1rem;'>
+  <view class='h1'>用户行为分析</view>
+  <view class='h5'>每个IP，包括登陆ID，url，图片，视频内容；</view>
+  <view class='h5'>用户使用的终端类型如手机型号，电脑，链接数量； </view>
+  <view class='h5'>第三方应用特征识别库达到4500+（更新）；</view>
+  <view class='h5'>精准识别每个用户的应用行为，耗时，流量等。</view>
+  <image src='../../img/img_product_01.png' mode='widthFix' style='width:70%;margin-top:.5rem;'></image>
+</view>
+
+<view class='product-section text-center' style='margin-top:1rem;'>
+  <view class='h1'>流量分析</view>
+  <view class='h5'>按用户流量峰谷，上下行流量分析；</view>
+  <view class='h5'>按用户应用流量结构消耗分析；</view>
+  <view class='h5'>单一应用流量分析； </view>
+  <view class='h5'>不同运营商流量出口统计分析。</view>
+  <image src='../../img/img_product_02.png' mode='widthFix' style='width:60%;margin-top:.5rem;'></image>
+</view>
+
+<view class='product-section text-center bg-blue' style='margin-top:1rem;'>
+  <view class='h1'>用户行为管控</view>
+  <view class='h5'>对上网终端类型，数量，微信QQ等分时进行策略限制和阻断；</view>
+  <view class='h5'>对用户上网行为进行管控；</view>
+  <view class='h5'>例如限制流量，第三方应用。</view>
+  <image src='../../img/img_product_03.png' mode='widthFix' style='width:70%;margin-top:.5rem;'></image>
+</view>
+
+<view class='product-section text-center' style='margin-top:1rem;'>
+  <view class='h1'>流量管控</view>
+  <view class='h5'>单一/群体用户带宽限速；</view>
+  <view class='h5'>单一/多个第三方应用流量限制；</view>
+  <view class='h5'>运营商流量限制，DNS重定向；</view>
+  <view class='h5'>Cache缓存，网内流量优化。</view>
+  <image src='../../img/img_product_04.png' mode='widthFix' style='width:60%;margin-top:.5rem;'></image>
+</view>

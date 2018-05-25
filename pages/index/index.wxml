@@ -1,0 +1,66 @@
+<view class='banner-index'>
+  <image src='../../img/img_banner_index.png' mode='widthFix' style='width:100%;'></image>
+</view>
+<view class='count-wrapper'>
+  <view class='count-01'>
+    <view class='row'>
+      <view class='col'>
+        <view class='col col-3'>
+          <image src='../../img/icon_count_01.png' mode='widthFix' style='width:70%; margin-top:15px;'></image>
+        </view>
+        <view class='col col-9 text-right color-light'>
+          <view class='.h5'>异常次数</view>
+          <view class='.h2'>12,123,123,123</view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class='count-02'>
+    <view class='row'>
+      <view class='col'>
+        <view class='col col-3'>
+          <image src='../../img/icon_count_02.png' mode='widthFix' style='width:70%; margin-top:15px;'></image>
+        </view>
+        <view class='col col-9 text-right color-light'>
+          <view class='.h5'>连接次数</view>
+          <view class='.h2'>12,123,123,123</view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class='count-03'>
+    <view class='row'>
+      <view class='col'>
+        <view class='col col-3'>
+          <image src='../../img/icon_count_03.png' mode='widthFix' style='width:70%; margin-top:8px;'></image>
+        </view>
+        <view class='col col-9 text-right color-light'>
+          <view class='.h5'>拦截次数</view>
+          <view class='.h2'>12,123,123,123</view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+
+</view>
+
+<view class='section-01 text-center'>
+  <view class='h1'>精确的网络流量管控</view>
+  <view class='h5'>超过95%的协议识别率，可辨识和管控常见的14大类逾千种应用，智能协议识别，动态识别库在线升级，保证新生应用协议样本获取速度、精确的协议识别率和系统性能稳定三大核心优势。</view>
+  <image src='../../img/img_index_01.png' mode='widthFix' style='width:100%'></image>
+</view>
+
+<view class='section-02 text-center'>
+  <view class='h1'>互联网高速缓存</view>
+  <view class='h5'>针对骨干网流量的压力缓解，有效保障关键性应用的带宽质量并提高第三方CDN命中率的效果，合理解决出口流量复用比的问题，有效提升ARPU值。</view>
+  <image src='../../img/img_index_02.png' mode='widthFix' style='width:100%'></image>
+</view>
+
+<view class='section-03 text-center'>
+  <view class='h1'>海量数据实时分析</view>
+  <view class='h5'>支持全量网络行为数据实时分析，多重监控逻辑定义，实现日常业务报表，网络异常预判与定位，网络状态的回溯应用于用户问题分界、报障排查。</view>
+  <image src='../../img/img_index_03.png' mode='widthFix' style='width:100%'></image>
+</view>
